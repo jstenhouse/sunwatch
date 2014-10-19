@@ -1,2 +1,5 @@
-
 require 'sunwatch/version'
+require 'sunwatch/errors'
+require 'sunwatch/response'
+require 'sunwatch/client'
+require 'sunwatch/sunwatch'
